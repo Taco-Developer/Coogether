@@ -10,7 +10,7 @@
 ### ✔️ **프로젝트 명**
 
 ---
-![Untitled](/uploads/6d6e56c9bac702c10fbd307993dcdf50/Untitled.png)
+![Untitled](/docs/ReadMeImg/Untitled.png)
 
 
 ### ✔️ **프로젝트 일정**
